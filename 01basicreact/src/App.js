@@ -1,7 +1,10 @@
+import Chai from "./Chai";
 
 function App() {
   return (
-   <h1>Hello Yaar | Debojeet Mitra</h1>
+    <>
+      <Chai />
+    </>
   );
 }
 
